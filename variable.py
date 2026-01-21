@@ -1,9 +1,10 @@
-question = "What is Santa's hat colour?"
-print(question)
-answer = input()
-correctanswer = "red"
-
-if (answer == correctanswer):
-    print ("Correct Answer")
-else:
-    print("Wrong Answer")
+p = 1234567
+s = "blanket"
+hi = 5.34567
+pan = True
+b = input("enter your name:")
+print(p)
+print(s)
+print(hi)
+print(pan)
+print(b)
