@@ -1,0 +1,5 @@
+print("i love pandas")
+print(67)
+print(6.7)
+print("badminton",87)
+print("shark",end = "!@£$%^&")
