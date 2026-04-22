@@ -1,0 +1,8 @@
+print("type in lowercase")
+age = int(input("enter your age:"))
+print(age)
+colour = input("enter your favorite colour:")
+print(colour)
+animal = input("enter your favorite animal:")
+print (animal)
+print("bye")
