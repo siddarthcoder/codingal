@@ -1,0 +1,22 @@
+tup = ("tall",True,1.4,17)
+print(tup)
+
+tup = (46,368,2,672,76)
+print(tup)
+
+tup = tup + (9,)
+print(tup)
+
+
+tup = (2,75,25,7,2,756,1,2,7)
+print(tup.count(2),"times")
+
+tup = (26,2456,24,56772,25,773,6,5,7,36)
+
+slice_ = tup[4:7]
+print(slice_)
+
+tup = (3,57,2,7,3,73,78,37,1,64,37,9,5,3,67,367)
+
+slice_ = tup[:17]
+print(slice_)
