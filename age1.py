@@ -1,5 +1,6 @@
 try:
     age = int(input("Enter your age: "))
+    
 
     if age % 2 == 0:
         print("Valid age. It is an EVEN number.")
@@ -8,3 +9,4 @@ try:
 
 except:
     print("Error: That is not a valid number!")
+
